@@ -1,8 +1,8 @@
 
 # Data
 
-Manages meta information for documents stored in couchdb. This module was designed
-having statistic data records in mind.
+Manages meta information for documents stored in couchdb. This module was
+designed having statistic data records in mind.
 
 - Add meta information such as title, description, source information to
   document properties.
